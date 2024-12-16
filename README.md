@@ -14,3 +14,27 @@ powerpoint
 
 word
  - This is the main document for the project that includes more details than the presentations IoT Smart Home System.docx
+
+
+Detailed Explanation Diagram
+
+- Use Case Diagram
+  The use case diagram shows the interactiosn between the actors and cases
+
+- Class Diagram
+  This diagram shows the interactions between the classes in the software system
+
+- Sequence Diagram
+  This diagram details the interactions betwenn objects on a scenario
+
+- State Diagram
+  This shpws the state of the thermostate through different phases
+
+- Activity Diagram
+  This shows the diagram of activities between the user and the smart devices
+
+- Component Diagram
+  The diagram provides the system componenet that will be interactin in the user smart system
+
+- Deployment Diagram
+  The diagram shows how the smart home system will be launched in the server cloud provider
