@@ -38,3 +38,6 @@ Detailed Explanation Diagram
 
 - Deployment Diagram
   The diagram shows how the smart home system will be launched in the server cloud provider
+
+Video Presneation on YouTube
+https://youtu.be/Zh0z3b1MaI4
