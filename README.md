@@ -8,3 +8,9 @@ images
 - UML Component Diagram.jpeg:                       This diagram shows the component needed for the smart home system to work
 - UML Class Diagram.jpeg:                           This diagram shows the classes in the smart home system for the software
 - UML Activity Diagram (Swimlane Diagram).jpeg:     This diagram shows the process of the user interacts between the smart home system
+
+powerpoint
+- The powerpoint folder includes the presenation given on the video IoT Smart Home System.ppt
+
+word
+ - This is the main document for the project that includes more details than the presentations IoT Smart Home System.docx
